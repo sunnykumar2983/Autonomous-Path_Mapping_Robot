@@ -1,5 +1,5 @@
 # Autonomous-Path_Mapping_Robot
-This repository is the solution of Problem statement of Technical fest 'TechFest' IIT BHU.
+This repository is the solution of Problem statement of Technical fest Pixelate under 'TechFest'19' IIT BHU.
 
-PS is attached above Techfest20PS.
+PS is attached above Pixelate20PS.
 
